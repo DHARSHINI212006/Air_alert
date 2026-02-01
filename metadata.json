@@ -1,0 +1,5 @@
+{
+  "name": "Air Alert",
+  "description": "A simple mobile app prototype for residents near paper mills to track air quality and record health impacts without complex UI.",
+  "requestFramePermissions": []
+}
